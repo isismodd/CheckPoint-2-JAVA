@@ -1,7 +1,7 @@
 package br.com.fiap.bean;
 import java.time.LocalDate;
 
-//Isis Macedo e Andrade RM561497, Ana Clara de Oliveira Nascimento  561957, Theodoro Spinola Furtado 566019, Anabelle ...
+//Isis Macedo e Andrade RM561497, Ana Clara de Oliveira Nascimento  RM561957, Theodoro Spinola Furtado RM566019, Anabelle Rosseto Rodrigues RM564526
 
 public class Aluno {
     // atributos
