@@ -4,6 +4,8 @@ import br.com.fiap.bean.Aluno;
 
 import javax.swing.*;
 
+//Isis Macedo e Andrade RM561497, Ana Clara de Oliveira Nascimento  RM561957, Theodoro Spinola Furtado RM566019, Anabelle Rosseto Rodrigues RM564526
+
 public class MainAluno {
     public static void main(String[] args) {
 
