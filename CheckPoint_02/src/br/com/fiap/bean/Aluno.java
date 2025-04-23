@@ -17,7 +17,6 @@ public class Aluno {
         public Aluno(int registroMatricula, String nomeCompleto, int anoDeNascimento) {
             this.RegistroMatricula = registroMatricula;
             this.NomeCompleto = nomeCompleto;
-            this.AnoDeNascimento = anoDeNascimento;
         }//construtor com passagem de parametros
 
         // métodos getters/setters
